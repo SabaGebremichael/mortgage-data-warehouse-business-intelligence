@@ -200,7 +200,7 @@ Project documentation, SQL scripts, ETL materials, reporting assets, and support
 
 Saba Gebremichael
 
-Junior Data Analyst | Power BI | SQL | Business Intelligence
+ Data Analyst | Power BI | SQL | Business Intelligence
 
 📧 seiona1212@gmail.com
 
