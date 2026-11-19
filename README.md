@@ -73,7 +73,7 @@ Key dimensional structures included:
 - Dim_Loan
 
 - Fact_Financials
-
+![Mortgage Dimensional Data Model](dimensional-data-model.png)
 - The dimensional model was designed to support business reporting and analytical queries.
 
 ## 🧮 SQL & Stored Procedures
