@@ -115,7 +115,9 @@ Reporting work included:
 - SQL Server Analysis Services (SSAS) was used to support analytical reporting and multidimensional business analysis.
 
 - The analytical model connected mortgage dimensions and financial measures to support business reporting and exploration.
+The cube includes financial measures and dimensions such as Borrower, Property, Loan, and Time.
 
+![Mortgage SSAS Cube Structure](ssas-cube-structure.png) 
 ## 🛠️ Technologies
 
 - Database & SQL
