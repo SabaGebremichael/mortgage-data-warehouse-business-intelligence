@@ -1,5 +1,5 @@
 # Mortgage Data Warehouse & Business Intelligence
-End-to-end mortgage data warehouse and business intelligence project using SQL Server, SSIS, dimensional modeling, SSRS, and SSAS.
+End-to-end mortgage data warehouse and business intelligence solution built with SQL Server, SSIS, dimensional modeling, SSAS, and SSRS.
 ## 📌 Project Overview
 This project demonstrates the design and implementation of a data-driven mortgage reporting and business intelligence solution for a mortgage loan application process.
 The project integrates data from multiple sources, applies ETL and data transformation processes, organizes the information into a dimensional data model, and provides reporting and analytical capabilities for business users.
@@ -177,7 +177,7 @@ The cube includes financial measures and dimensions such as Borrower, Property, 
 - SQL Server
 
 ## 🔁 Project Workflow
-
+Source Data → SSIS ETL → Operational Data Store → Dimensional Warehouse → SSAS → SSRS Reporting
 - Collect source data
 
 - Validate source information
@@ -214,7 +214,7 @@ The cube includes financial measures and dimensions such as Borrower, Property, 
 
 ## 📁 Project Files
 
-Project documentation, SQL scripts, ETL materials, reporting assets, and supporting screenshots will be added to this repository as the portfolio is developed.
+The repository includes project documentation and visual evidence of the SSIS ETL workflows, dimensional data model, SSRS reporting, and SSAS analytical cube.
 
 👩‍💻 Author
 
