@@ -41,7 +41,25 @@ The project worked with multiple source formats, including:
 - The source data was prepared and integrated through ETL processes before being used for reporting and analytics.
 
 ## 🔄 ETL & Data Integration
+SQL Server Integration Services (SSIS) was used to extract, validate, transform, and load mortgage data through operational and warehouse stages.
 
+### Load to ODS
+
+The ETL process loads source data into the operational data store.
+
+![SSIS Load to ODS](ssis-load-to-ods.png)
+
+### Load to Data Warehouse
+
+The warehouse-loading process applies transformation and dimension-handling logic before loading the dimensional model.
+
+![SSIS Load to Data Warehouse](ssis-load-to-dwh.png)
+
+### Data Validation & Error Handling
+
+Conditional Split logic routes invalid or incomplete records to appropriate error outputs while valid records continue through the load process.
+
+![SSIS Error Handling](ssis-error-handling.png)
 SSIS was used to develop ETL workflows for extracting, transforming, validating, and loading mortgage-related data.
 
 Key activities included:
