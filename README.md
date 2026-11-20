@@ -97,7 +97,7 @@ Project work included:
 ## 📊 SSRS Reporting
 
 SQL Server Reporting Services (SSRS) was used to create reporting solutions for mortgage business users.
-
+![Mortgage Performance Dashboard](ssrs-mortgage-performance-dashboard.png)
 Reporting work included:
 
 - Interactive reports
